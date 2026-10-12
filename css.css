@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(245, 255, 252);
+}
+.header{
+    margin-top: 1px;
+    display: flex;
+    border-radius: 10px;
+    height: 170px;
+    background-color: rgb(235, 235, 235);
+    justify-content:center ;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 46px;
+    box-shadow: 7px 7px 5px rgb(122, 122, 122);
+}
+.whiteStroke{
+    background-image: url(blackStroke.png);
+    background-size: 700px;
+    /* border: solid black; */
+    color: white;
+    width: 100%;
+    height: 200px;
+    padding-top: 50px;
+    padding-left: 120px;
+    margin-right: 100px;
+    margin-top: -31px;
+    
+}
+.blackStroke{
+    background-image: url(whiteStroke.png);
+    background-size: 470px;
+    /* border: solid black; */
+    width: 400px;
+    padding-left: 90px;
+    padding-top: 10px;
+    height: 130px;
+    margin-top: 10px;
+    margin-left: -130px;
+    
+}
+.navbar{
+    margin-top: 20px;
+    display: flex;
+    /*border-radius: 10px;*/
+    height: 55px;
+    background-color: rgb(220, 217, 217);
+    justify-content:center ;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 46px;
+    box-shadow: 7px 7px 5px rgb(122, 122, 122);
+}
+.container{ 
+    color: rgb(0, 0, 0);
+    background-color:rgb(173, 164, 153);
+    width: 100%;
+}
+.topHeader{
+    background-color: bisque;
+    height: 30 px;
+}
+.mainHeadingImage{
+    text-align: center;
+}
+.mainBody{
+
+}
